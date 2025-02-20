@@ -1,7 +1,15 @@
-- My name is Gerry Jones and here you will find my independent projects!
-- Exploratory Data Analysis(EDA) and Machine Learning (ML).
-- I currently have my B.S. in Applied Mathematics and am expanding my skillsets and competency with larger data structures and machine learning models. In my free time, I love to play golf, play chess and workout.
-- Reach me at: gerryjonesjr@gmail.com if you are interested in collaborating or would like to know more about what I do.
+Here you'll find my independent projects in:
+
+Machine Learning (ML) & AI – Model development, predictive analytics, and AI-driven simulations.
+Data Science & Analytics – Statistical modeling, exploratory data analysis (EDA), and visualization.
+SQL & Big Data – Query optimization, database management, and scalable data solutions.
+I hold a B.S. in Applied Mathematics, and I’m continuously expanding my expertise in ML, AI, and data-driven decision-making. My recent work involves F1 telemetry analysis, strategy simulations, and AI-enhanced analytics.
+
+🔍 What I’m working on now:
+
+Developing an AI model for F1 race strategy optimization, simulating alternative outcomes.
+Exploring LLM integration for contextual AI-driven F1 insights.
+Leveraging big data technologies (PySpark, Hadoop, SQL) for scalable data pipelines.
 
 <!---
 gjones01/gjones01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
