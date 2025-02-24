@@ -7,9 +7,7 @@ I hold a B.S. in Applied Mathematics, and I’m continuously expanding my expert
 
 🔍 What I’m working on now:
 
-Developing an AI model for F1 race strategy optimization, simulating alternative outcomes.
-Exploring LLM integration for contextual AI-driven F1 insights.
-Leveraging big data technologies (PySpark, Hadoop, SQL) for scalable data pipelines.
+Currently I am entered in the 2025 March Madness Machine Learning Mania sponsored by Google. I am competing with Data Scientists around the world to build the most accurate March Madness predictive model! The final deadline is March 20th. When submitted I will upload my work on here to share.
 
 <!---
 gjones01/gjones01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
