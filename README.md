@@ -3,7 +3,7 @@ Here you'll find my independent projects in:
 Machine Learning (ML) & AI – Model development, predictive analytics, and AI-driven simulations.
 Data Science & Analytics – Statistical modeling, exploratory data analysis (EDA), and visualization.
 SQL & Big Data – Query optimization, database management, and scalable data solutions.
-I hold a B.S. in Applied Mathematics, and I’m continuously expanding my expertise in ML, AI, and data-driven decision-making. My recent work involves F1 telemetry analysis, strategy simulations, and AI-enhanced analytics.
+I hold a B.S. in Applied Mathematics.
 
 🔍 What I’m working on now:
 
