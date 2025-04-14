@@ -7,7 +7,7 @@ I hold a B.S. in Applied Mathematics.
 
 🔍 What I’m working on now:
 
-Currently I am engineering a bot detection algorithm for X.com (formerly Twitter.) In conjunction with this algorithm I am utilizing their "X API: to live stream
+Currently I am engineering a bot detection algorithm for X.com (formerly Twitter.) In conjunction with this algorithm I am utilizing their "X API" to live stream
 X feeds to determine the legitimacy of accounts. In other words, be able to flag an account as most likely human or most likely bot! This overall model skeleton
 can be deployed for all sorts of classification tasks, especially for binary cases such as this (fraudulent transaction detection, anti-cheat softwares for competitive video games, or
 determining whether a person utilized an LLM to produce written work.)
