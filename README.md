@@ -7,8 +7,10 @@ I hold a B.S. in Applied Mathematics.
 
 🔍 What I’m working on now:
 
-Currently I am entered in the 2025 March Madness Machine Learning Mania sponsored by Google. I am competing with Data Scientists around the world to build the most accurate March Madness predictive model! The final deadline is March 20th. When submitted I will upload my work on here to share.
-
+Currently I am engineering a bot detection algorithm for X.com (formerly Twitter.) In conjunction with this algorithm I am utilizing their "X API: to live stream
+X feeds to determine the legitimacy of accounts. In other words, be able to flag an account as most likely human or most likely bot! This overall model skeleton
+can be deployed for all sorts of classification tasks, especially for binary cases such as this (fraudulent transaction detection, anti-cheat softwares for competitive video games, or
+determining whether a person utilized an LLM to produce written work.)
 <!---
 gjones01/gjones01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
