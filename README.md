@@ -12,7 +12,7 @@ SQL & Big Data – Query optimization, relational databases, and scalable data p
 
 Currently I am engineering a bot detection algorithm for X.com (formerly Twitter), using the X API to stream live feeds and classify accounts as likely human or likely bot.
 
-This project uses TF-IDF for uniquely quantify textual data to the nfeed into a machine learning classifier. It’s a practical application of binary classification, with broader use cases in fraud detection and anti-cheat algorithms for video games.
+This project uses TF-IDF for uniquely quantifying textual data to then feed into a machine learning classifier. It’s a practical application of binary classification, with broader use cases in fraud detection and anti-cheat algorithms in video games.
 <!---
 gjones01/gjones01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
