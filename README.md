@@ -1,6 +1,6 @@
 Here you'll find my independent projects in:
 
-Machine Learning – Predictive modeling and classification systems
+Machine Learning – Predictive modeling, classification systems and neural networks
 
 Data Science & Analytics – EDA, statistical modeling, and data visualization
 
