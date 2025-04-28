@@ -10,9 +10,8 @@ SQL & Big Data – Query optimization, relational databases, and scalable data p
 
 🔍 What I’m working on now:
 
-Currently I am engineering a bot detection algorithm for X.com (formerly Twitter), using the X API to stream live feeds and classify accounts as likely human or likely bot.
-
-This project uses TF-IDF for uniquely quantifying textual data to then feed into a machine learning classifier. It’s a practical application of binary classification, with broader use cases in fraud detection and anti-cheat algorithms in video games.
+Currently I am developing a Deep Learning Neural Network cheat detection algorithm for the popular first person shooter, Counter Strike 2. This is utilizing computer vision to watch sample demo clips from players and identify whether they are cheating or legitimate.
+It is in the first phase so far with a rough prototype working and a crowdsource of gameplay from the Counter Strike community. With their help they are making this possible. This isn't meant to be a ban system but rather an analysis tool in an attempt to solve a current problem in competitive gaming.
 <!---
 gjones01/gjones01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
