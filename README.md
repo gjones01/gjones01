@@ -10,8 +10,7 @@ SQL & Big Data – Query optimization, relational databases, and scalable data p
 
 - What I’m working on now:
 
-Currently I am developing a Deep Learning Neural Network cheat detection algorithm called ClearVision.ai, for the popular first person shooter, Counter Strike 2. This is utilizing computer vision to watch sample demo clips from players and identify whether they are cheating or legitimate.
-It is in the first phase so far with a rough prototype working and a crowdsource of gameplay from the Counter Strike community. With their help they are making this possible. This isn't meant to be a ban system but rather an analysis tool in an attempt to solve a current problem in competitive gaming.
+For the past 7 months I have been developing a computer vision model that analyzes short Counter-Strike footage to identify cheating behavior. At the moment, data collection is the current state of the project, with the model pipeline itself already being prototyped. Concurrently, I am creating a statistical tool, using the Leetify API, that pulls relevant Counter-Strike stats for a player and then further derives granular metrics that would highlight unusual gameplay. Currently, I am building a website to make the tool public. If this interests you at all, please check out the ClarityCS repository.
 <!---
 gjones01/gjones01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
