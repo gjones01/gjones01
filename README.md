@@ -7,11 +7,17 @@ Data Science & Analytics – EDA, statistical modeling, and data visualization
 SQL & Big Data – Query optimization, relational databases, and scalable data pipelines
 
 - B.S. in Applied Mathematics
+- Currently pursuing my Master's in Applied Data Science
 
 - What I’m working on now:
 
-For the past 7 months I have been developing a computer vision model that analyzes short Counter-Strike footage to identify cheating behavior. At the moment, data collection is the current state of the project, with the model pipeline itself already being prototyped. Concurrently, I am creating a statistical tool, using the Leetify API, that pulls relevant Counter-Strike stats for a player and then further derives granular metrics that would highlight unusual gameplay. Currently, I am building a website to make the tool public. If this interests you at all, please check out the ClarityCS repository.
-<!---
-gjones01/gjones01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m building a data-driven cheat detection and performance analytics tool for Counter-Strike 2. The core pipeline parses `.dem` files with **AWPy**, isolates a target player by SteamID, and generates structured, tick-level features around key events (e.g., pre/post kill windows). The goal is to flag suspicious gameplay patterns and surface explainable signals (aim behavior, positioning, visibility, “through-smoke” interactions, etc.).
+
+**Current focus**
+- Expanding the dataset (more verified cheater demos) and improving generalization  
+- Feature engineering + handling class imbalance (rare positive windows)  
+- Model evaluation that’s practical: ranking top suspicious events and aggregating to match-level decisions  
+- Building a simple web front-end so users can upload a demo and get a report
+
+If this interests you, check out the **NullCS** repository for the latest work.
+
